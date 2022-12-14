@@ -19,6 +19,7 @@ function App() {
     }
     fetchPosts();
   }, [])
+  
   const paginate = (number) => {
     setCurrentpage(number);
   }

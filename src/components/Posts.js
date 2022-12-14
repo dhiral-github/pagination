@@ -18,5 +18,4 @@ const Posts = ({ posts, loading }) => {
   )
 }
 
-
 export default Posts;
